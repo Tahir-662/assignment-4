@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.AssemblyInfo.cs
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.exe
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.deps.json
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.runtimeconfig.json
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.dll
+C:\Users\Dell\Desktop\VP\Q.53\bin\Debug\netcoreapp3.1\Q.53.pdb
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.dll
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.pdb
+C:\Users\Dell\Desktop\VP\Q.53\obj\Debug\netcoreapp3.1\Q.53.genruntimeconfig.cache
